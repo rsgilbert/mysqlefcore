@@ -1,0 +1,3 @@
+// create project
+dotnet new console –o mysqlefcore
+
