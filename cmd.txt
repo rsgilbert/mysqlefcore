@@ -1,3 +1,5 @@
 // create project
 dotnet new console –o mysqlefcore
 
+// add mysql efcore package
+dotnet add package MySql.EntityFrameworkCore --version 6.0.4
